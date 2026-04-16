@@ -16,7 +16,7 @@ It retrieves medical knowledge from indexed PDFs, processes queries, and provide
 You can interact with the chatbot using:
 
 - 🖥 **Flask Web Interface** (local run)  
-- 🌐 **Streamlit Deployed App** → [Medical Chatbot on Streamlit](https://medicalchatbot-sarthak.streamlit.app/)  
+- 🌐 **Streamlit Deployed App** → [Medical Chatbot on Streamlit]( https://medicalchatbot-aryandhanuka10.streamlit.app/)  
 
 ---
 
@@ -79,7 +79,7 @@ App will run at: `http://localhost:8501`
 
 ## 🌐 Deployed Link
 
-- 🚀 **Streamlit Deployment** → [https://medicalchatbot-sarthak.streamlit.app/](https://medicalchatbot-sarthak.streamlit.app/)  
+- 🚀 **Streamlit Deployment** → [https://medicalchatbot-sarthak.streamlit.app/]( https://medicalchatbot-aryandhanuka10.streamlit.app/)  
 
 ---
 
