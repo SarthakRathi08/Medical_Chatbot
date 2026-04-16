@@ -16,7 +16,7 @@ It retrieves medical knowledge from indexed PDFs, processes queries, and provide
 You can interact with the chatbot using:
 
 - 🖥 **Flask Web Interface** (local run)  
-- 🌐 **Streamlit Deployed App** → [Medical Chatbot on Streamlit](https://medicalchatbot-aryandhanuka10.streamlit.app/)  
+- 🌐 **Streamlit Deployed App** → [Medical Chatbot on Streamlit](https://medicalchatbot-sarthak.streamlit.app/)  
 
 ---
 
@@ -33,7 +33,7 @@ You can interact with the chatbot using:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/AryanDhanuka10/Medical_Chatbot_Using_GenAI
+git clone https://github.com/SarthakRathi08/Medical_Chatbot_Using_GenAI
 cd Medical_Chatbot_Using_GenAI
 ```
 
@@ -79,7 +79,7 @@ App will run at: `http://localhost:8501`
 
 ## 🌐 Deployed Link
 
-- 🚀 **Streamlit Deployment** → [https://medicalchatbot-aryandhanuka10.streamlit.app/](https://medicalchatbot-aryandhanuka10.streamlit.app/)  
+- 🚀 **Streamlit Deployment** → [https://medicalchatbot-sarthak.streamlit.app/](https://medicalchatbot-sarthak.streamlit.app/)  
 
 ---
 
@@ -120,6 +120,5 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Aryan Dhanuka**  
-📧 [p74743207@gmail.com](mailto:p74743207@gmail.com)  
-🌐 [GitHub Repository](https://github.com/AryanDhanuka10/Medical_Chatbot_Using_GenAI)  
+**Sarthak Rathi**  
+🌐 [GitHub Repository](https://github.com/SarthakRathi08/Medical_Chatbot_Using_GenAI)  
